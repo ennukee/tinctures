@@ -1,0 +1,506 @@
+[
+  {
+    "text": "#% chance to gain an Endurance Charge when you are Hit",
+    "id": "explicit.stat_1514657588"
+  },
+  {
+    "text": "#% to Chaos Resistance per Endurance Charge",
+    "id": "explicit.stat_4210011075"
+  },
+  {
+    "text": "#% increased Life Regeneration rate",
+    "id": "explicit.stat_44972811"
+  },
+  {
+    "text": "Final Map Boss in each Map has #% chance to drop an additional Divination Card",
+    "id": "explicit.stat_1123167602"
+  },
+  {
+    "text": "Recoup #% of Damage Taken by your Totems as Life",
+    "id": "explicit.stat_825316273"
+  },
+  {
+    "text": "Enemies you or your Totems Kill have #% chance to Explode, dealing 500% of their maximum Life as Fire Damage",
+    "id": "explicit.stat_215242678"
+  },
+  {
+    "text": "#% chance to Cover Rare or Unique Enemies in Ash for 10 Seconds on Hit",
+    "id": "explicit.stat_240642724"
+  },
+  {
+    "text": "#% increased Strength",
+    "id": "explicit.stat_734614379"
+  },
+  {
+    "text": "#% to maximum Fire Resistance",
+    "id": "explicit.stat_4095671657"
+  },
+  {
+    "text": "#% reduced Ignite Duration on you",
+    "id": "explicit.stat_986397080"
+  },
+  {
+    "text": "Cannot be Stunned while you have at least 25 Rage",
+    "id": "explicit.stat_2971900104"
+  },
+  {
+    "text": "Adds # to # Physical Damage if you've dealt a Critical Strike Recently",
+    "id": "explicit.stat_2723101291"
+  },
+  {
+    "text": "# to Maximum Rage",
+    "id": "explicit.stat_1181501418"
+  },
+  {
+    "text": "Warcries grant # Rage per 5 Power if you have less than 25 Rage",
+    "id": "explicit.stat_3608339129"
+  },
+  {
+    "text": "#% of Leech is Instant",
+    "id": "explicit.stat_3561837752"
+  },
+  {
+    "text": "#% of Attack Damage Leeched as Life and Mana if you've Killed Recently",
+    "id": "explicit.stat_2770801535"
+  },
+  {
+    "text": "Nearby corpses Explode when you Warcry, dealing #% of their Life as Physical Damage",
+    "id": "explicit.stat_293071889"
+  },
+  {
+    "text": "Cannot be Stunned while Fortified",
+    "id": "explicit.stat_2983926876"
+  },
+  {
+    "text": "#% chance to Taunt on Hit",
+    "id": "explicit.stat_3272283603"
+  },
+  {
+    "text": "Banner Skills have no Reservation",
+    "id": "explicit.stat_2384457007"
+  },
+  {
+    "text": "When you create a Banner, it gains #% of the Stages of your placed Banner",
+    "id": "explicit.stat_1790196169"
+  },
+  {
+    "text": "Gain Adrenaline for # seconds when you reach Low Life",
+    "id": "explicit.stat_4205704547"
+  },
+  {
+    "text": "Bleeding Enemies you Kill Explode, dealing #% of#their Maximum Life as Physical Damage",
+    "id": "explicit.stat_3133323410"
+  },
+  {
+    "text": "Attack Hits against Bleeding Enemies have #% chance to Blind",
+    "id": "explicit.stat_4204320922"
+  },
+  {
+    "text": "Attack Hits against Blinded Enemies have #% chance to Maim",
+    "id": "explicit.stat_1291726336"
+  },
+  {
+    "text": "Cannot be Stunned by Hits you Block",
+    "id": "explicit.stat_3058290552"
+  },
+  {
+    "text": "#% to maximum Chance to Block Attack Damage",
+    "id": "explicit.stat_4124805414"
+  },
+  {
+    "text": "Hits ignore Enemy Monster Physical Damage Reduction if you've Blocked in the past 20 seconds",
+    "id": "explicit.stat_3035931505"
+  },
+  {
+    "text": "# to Armour and Evasion Rating per 1% Chance to Block Attack Damage",
+    "id": "explicit.stat_2818854203"
+  },
+  {
+    "text": "#% Chance to Block Attack Damage",
+    "id": "explicit.stat_1702195217"
+  },
+  {
+    "text": "Gain #% increased Attack Speed for 20 seconds when you Kill a Rare or Unique Enemy",
+    "id": "explicit.stat_3243270997"
+  },
+  {
+    "text": "Cannot take Reflected Physical Damage",
+    "id": "explicit.stat_249805317"
+  },
+  {
+    "text": "Cannot be Stunned while Leeching",
+    "id": "explicit.stat_1887508417"
+  },
+  {
+    "text": "You are Unaffected by Bleeding while Leeching",
+    "id": "explicit.stat_2291122510"
+  },
+  {
+    "text": "#% of Overkill Damage is Leeched as Life",
+    "id": "explicit.stat_3511523149"
+  },
+  {
+    "text": "#% increased Maximum Recovery per Life Leech",
+    "id": "explicit.stat_3101897388"
+  },
+  {
+    "text": "#% increased Area of Effect if you've Killed Recently",
+    "id": "explicit.stat_923608573"
+  },
+  {
+    "text": "Culling Strike",
+    "id": "explicit.stat_2524254339"
+  },
+  {
+    "text": "# to Strength and Intelligence",
+    "id": "explicit.stat_2543977012"
+  },
+  {
+    "text": "#% increased Effect of non-Damaging Ailments you inflict with Critical Strikes",
+    "id": "explicit.stat_3772078232"
+  },
+  {
+    "text": "Consecrated Ground you create applies #% increased Damage taken to Enemies",
+    "id": "explicit.stat_2474564741"
+  },
+  {
+    "text": "Damage Penetrates #% of Enemy Elemental Resistances",
+    "id": "explicit.stat_697807915"
+  },
+  {
+    "text": "#% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds",
+    "id": "explicit.stat_4278270018"
+  },
+  {
+    "text": "#% increased Critical Strike Chance if you haven't dealt a Critical Strike Recently",
+    "id": "explicit.stat_2856328513"
+  },
+  {
+    "text": "#% of Damage is taken from Mana before Life",
+    "id": "explicit.stat_458438597"
+  },
+  {
+    "text": "#% increased Mana Reservation Efficiency of Skills",
+    "id": "explicit.stat_1269219558"
+  },
+  {
+    "text": "Gain #% of Maximum Mana as Extra Maximum Energy Shield",
+    "id": "explicit.stat_2663376056"
+  },
+  {
+    "text": "Gain Arcane Surge when you or your Totems Hit an Enemy with a Spell",
+    "id": "explicit.stat_4286031492"
+  },
+  {
+    "text": "#% of Damage from Hits is taken from your nearest Totem's Life before you",
+    "id": "explicit.stat_2762445213"
+  },
+  {
+    "text": "Skills that would Summon a Totem have #% chance to Summon two Totems instead",
+    "id": "explicit.stat_1870732546"
+  },
+  {
+    "text": "If you've Attacked Recently, you and nearby Allies have #% Chance to Block Attack Damage",
+    "id": "explicit.stat_1453771408"
+  },
+  {
+    "text": "If you've Cast a Spell Recently, you and nearby Allies have #% Chance to Block Spell Damage",
+    "id": "explicit.stat_1952992278"
+  },
+  {
+    "text": "Every 4 seconds, remove Curses and Elemental Ailments from you",
+    "id": "explicit.stat_2189230542"
+  },
+  {
+    "text": "Grants Armour equal to #% of your Reserved Mana to you and nearby Allies",
+    "id": "explicit.stat_681709908"
+  },
+  {
+    "text": "Enemies in your Link Beams cannot apply Elemental Ailments",
+    "id": "explicit.stat_2556900184"
+  },
+  {
+    "text": "Every 4 seconds, Regenerate #% of Life over one second",
+    "id": "explicit.stat_1242155304"
+  },
+  {
+    "text": "Nearby Enemies cannot gain Power, Frenzy or Endurance Charges",
+    "id": "explicit.stat_4031527864"
+  },
+  {
+    "text": "While there are at least five nearby Allies, you and nearby Allies have Onslaught",
+    "id": "explicit.stat_3730497630"
+  },
+  {
+    "text": "Exposure you inflict applies an extra #% to the affected Resistance",
+    "id": "explicit.stat_3306713700"
+  },
+  {
+    "text": "All Damage can Ignite",
+    "id": "explicit.stat_1369840970"
+  },
+  {
+    "text": "Shocks from your Hits always increase Damage taken by at least #%",
+    "id": "explicit.stat_1712740586"
+  },
+  {
+    "text": "Chills from your Hits always reduce Action Speed by at least #%",
+    "id": "explicit.stat_2774670797"
+  },
+  {
+    "text": "#% increased Effect of Buffs granted by your Golems",
+    "id": "explicit.stat_2109043683"
+  },
+  {
+    "text": "#% chance to Freeze, Shock and Ignite",
+    "id": "explicit.stat_800141891"
+  },
+  {
+    "text": "Cannot take Reflected Elemental Damage",
+    "id": "explicit.stat_1827932821"
+  },
+  {
+    "text": "Your Hexes can affect Hexproof Enemies",
+    "id": "explicit.stat_1367119630"
+  },
+  {
+    "text": "Cursed Enemies you or your Minions Kill have a #% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage",
+    "id": "explicit.stat_1763939859"
+  },
+  {
+    "text": "#% increased Area of Effect per Power Charge",
+    "id": "explicit.stat_3094501804"
+  },
+  {
+    "text": "#% increased Effect of your Curses",
+    "id": "explicit.stat_2353576063"
+  },
+  {
+    "text": "Nearby Enemies are Chilled",
+    "id": "explicit.stat_2480873346"
+  },
+  {
+    "text": "Regenerate #% of Energy Shield per second",
+    "id": "explicit.stat_3594640492"
+  },
+  {
+    "text": "#% chance to Hinder Enemies on Hit with Spells",
+    "id": "explicit.stat_3002506763"
+  },
+  {
+    "text": "Minions have #% chance to gain Unholy Might for 4 seconds on Kill",
+    "id": "explicit.stat_3131367308"
+  },
+  {
+    "text": "Your Offerings have #% increased Effect on you",
+    "id": "explicit.stat_2071120096"
+  },
+  {
+    "text": "Regenerate #% of Mana over 2 seconds when you Consume a corpse",
+    "id": "explicit.stat_3721828090"
+  },
+  {
+    "text": "Regenerate #% of Energy Shield over 2 seconds when you Consume a corpse",
+    "id": "explicit.stat_2900084972"
+  },
+  {
+    "text": "You and nearby Allies have #% to Elemental Resistances",
+    "id": "explicit.stat_319842716"
+  },
+  {
+    "text": "Minions gain Added Physical Damage equal to #% of Maximum Energy Shield on your Equipped Helmet",
+    "id": "explicit.stat_2268802111"
+  },
+  {
+    "text": "Corpses you Spawn have #% increased Maximum Life",
+    "id": "explicit.stat_586568910"
+  },
+  {
+    "text": "Minions have #% additional Physical Damage Reduction",
+    "id": "explicit.stat_3119612865"
+  },
+  {
+    "text": "#% chance to gain a Power Charge on Critical Strike",
+    "id": "explicit.stat_3814876985"
+  },
+  {
+    "text": "#% to Critical Strike Multiplier per Power Charge",
+    "id": "explicit.stat_4164870816"
+  },
+  {
+    "text": "#% Critical Strike Chance while at maximum Power Charges",
+    "id": "explicit.stat_1166971727"
+  },
+  {
+    "text": "Critical Strikes have Culling Strike",
+    "id": "explicit.stat_2996445420"
+  },
+  {
+    "text": "#% increased Critical Strike Chance against Enemies on Full Life",
+    "id": "explicit.stat_47954913"
+  },
+  {
+    "text": "Damage from your Critical Strikes cannot be Reflected",
+    "id": "explicit.stat_1857928882"
+  },
+  {
+    "text": "#% increased Elusive Effect",
+    "id": "explicit.stat_240857668"
+  },
+  {
+    "text": "You take no Extra Damage from Critical Strikes while Elusive",
+    "id": "explicit.stat_2953854044"
+  },
+  {
+    "text": "#% increased Poison Duration for each Poison you have inflicted Recently, up to a maximum of 100%",
+    "id": "explicit.stat_86516932"
+  },
+  {
+    "text": "Cannot be Blinded",
+    "id": "explicit.stat_1436284579"
+  },
+  {
+    "text": "#% Global chance to Blind Enemies on hit",
+    "id": "explicit.stat_2221570601"
+  },
+  {
+    "text": "#% increased Effect of Auras from Mines",
+    "id": "explicit.stat_2121424530"
+  },
+  {
+    "text": "#% chance to take 50% less Area Damage from Hits",
+    "id": "explicit.stat_4253777805"
+  },
+  {
+    "text": "Hits have #% chance to deal 50% more Area Damage",
+    "id": "explicit.stat_2289189129"
+  },
+  {
+    "text": "#% increased Cooldown Recovery Rate",
+    "id": "explicit.stat_1004011302"
+  },
+  {
+    "text": "#% chance to throw up to 4 additional Traps",
+    "id": "explicit.stat_3132227798"
+  },
+  {
+    "text": "#% increased Charge Duration",
+    "id": "explicit.stat_2171629017"
+  },
+  {
+    "text": "#% chance for Energy Shield Recharge to start when you Suppress Spell Damage",
+    "id": "explicit.stat_3410306164"
+  },
+  {
+    "text": "#% chance to gain 25% of Non-Chaos Damage with Hits as Extra Chaos Damage",
+    "id": "explicit.stat_1741279188"
+  },
+  {
+    "text": "# to Evasion Rating per 1 Maximum Energy Shield on Equipped Helmet",
+    "id": "explicit.stat_1144937587"
+  },
+  {
+    "text": "Prevent #% of Suppressed Spell Damage while on Full Energy Shield",
+    "id": "explicit.stat_1493325653"
+  },
+  {
+    "text": "#% of Damage Leeched as Energy Shield",
+    "id": "explicit.stat_4201339891"
+  },
+  {
+    "text": "#% chance to Recover 10% of Mana when you use a Skill",
+    "id": "explicit.stat_308309328"
+  },
+  {
+    "text": "Projectile Barrages have no spread",
+    "id": "explicit.stat_3953699641"
+  },
+  {
+    "text": "#% increased Effect of your Marks",
+    "id": "explicit.stat_803185500"
+  },
+  {
+    "text": "Projectiles have #% chance to be able to Chain when colliding with terrain",
+    "id": "explicit.stat_1661496782"
+  },
+  {
+    "text": "Skills fire an additional Projectile",
+    "id": "explicit.stat_74338099"
+  },
+  {
+    "text": "#% increased Mirage Archer Duration",
+    "id": "explicit.stat_3663580344"
+  },
+  {
+    "text": "Projectiles gain Damage as they travel farther, dealing up#to #% increased Damage with Hits to targets",
+    "id": "explicit.stat_2083727359"
+  },
+  {
+    "text": "Gain # Life per Bleeding Enemy Hit",
+    "id": "explicit.stat_3148570142"
+  },
+  {
+    "text": "#% increased Accuracy Rating if you've dealt a Critical Strike in the past 8 seconds",
+    "id": "explicit.stat_1381557885"
+  },
+  {
+    "text": "#% increased Effect of Onslaught on you",
+    "id": "explicit.stat_3151397056"
+  },
+  {
+    "text": "#% chance to gain Phasing for 4 seconds on Kill",
+    "id": "explicit.stat_3669845133"
+  },
+  {
+    "text": "#% chance to Suppress Spell Damage",
+    "id": "explicit.stat_492027537"
+  },
+  {
+    "text": "#% chance to Avoid Elemental Ailments while Phasing",
+    "id": "explicit.stat_115351487"
+  },
+  {
+    "text": "#% chance to gain Onslaught for 4 seconds on Kill",
+    "id": "explicit.stat_665823128"
+  },
+  {
+    "text": "#% increased Evasion Rating per Frenzy Charge",
+    "id": "explicit.stat_660404777"
+  },
+  {
+    "text": "#% increased Movement Speed per Frenzy Charge",
+    "id": "explicit.stat_1541516339"
+  },
+  {
+    "text": "#% chance to gain a Frenzy Charge on Hit",
+    "id": "explicit.stat_2323242761"
+  },
+  {
+    "text": "Removes Bleeding when you use a Flask",
+    "id": "explicit.stat_2202201823"
+  },
+  {
+    "text": "Magic Utility Flasks applied to you have #% increased Effect",
+    "id": "explicit.stat_2564857472"
+  },
+  {
+    "text": "#% chance to inflict Withered for 2 seconds on Hit",
+    "id": "explicit.stat_1957711555"
+  },
+  {
+    "text": "Recover #% of Life when you use a Flask",
+    "id": "explicit.stat_3184268466"
+  },
+  {
+    "text": "#% increased Effect of Withered",
+    "id": "explicit.stat_2545584555"
+  },
+  {
+    "text": "Enemies you Kill that are affected by Elemental Ailments#grant #% increased Flask Charges",
+    "id": "explicit.stat_589437732"
+  },
+  {
+    "text": "Gain #% of Physical Damage as Extra Damage of a random Element",
+    "id": "explicit.stat_3753703249"
+  }
+]

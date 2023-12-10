@@ -31,3 +31,7 @@ a {
   text-decoration: none;
   color: #99f;
 }
+
+.version-number {
+  font-size: 14px !important;
+}
