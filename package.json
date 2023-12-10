@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jsdom": "^23.0.1",
+    "puppeteer": "^21.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "string-similarity": "^4.0.4"
   },
   "scripts": {
     "start": "react-scripts start",

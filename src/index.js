@@ -1,9 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import Page from 'components/Page';
+
+import './index.css';
+
 ReactDOM.render(
   <React.StrictMode>
-    <h1>React App</h1>
+    <div className="top-level-container">
+      <Page />
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );

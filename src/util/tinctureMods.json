@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Hits Inflict # Withered Debuffs for 2 seconds on Enemies that are on Full Life",
+    "id": "explicit.stat_1905983154"
+  },
+  {
+    "text": "#% increased Damage against Enemies that are on Low Life",
+    "id": "explicit.stat_348975247"
+  },
+  {
+    "text": "Killing Blows against Rare Monsters have a #% chance#to grant one of their Modifiers for 60 seconds",
+    "id": "explicit.stat_3030738875"
+  },
+  {
+    "text": "Killing Blows have a #% chance for Enemies to Explode, dealing a tenth of their maximum Life as Fire Damage",
+    "id": "explicit.stat_1889268646"
+  },
+  {
+    "text": "#% of Leech is Instant against Low Life Enemies",
+    "id": "explicit.stat_1194301451"
+  },
+  {
+    "text": "Killing Blows have #% chance to Shatter Enemies as though Frozen",
+    "id": "explicit.stat_111587186"
+  },
+  {
+    "text": "#% to Critical Strike Multiplier against Enemies that are on Full Life",
+    "id": "explicit.stat_3735443206"
+  },
+  {
+    "text": "#% chance to gain Onslaught for 10 seconds on Killing Blow",
+    "id": "explicit.stat_3173297737"
+  },
+  {
+    "text": "Cover Enemies in Ash on Hit for # seconds against Enemies that are on Full Life",
+    "id": "explicit.stat_3805189481"
+  },
+  {
+    "text": "Cover Enemies in Frost on Hit for # seconds against Enemies that are on Full Life",
+    "id": "explicit.stat_632209492"
+  },
+  {
+    "text": "Crush Enemies for # seconds when you Hit them while they are on Full Life",
+    "id": "explicit.stat_1773232936"
+  },
+  {
+    "text": "Overwhelm #% of Physical Damage Reduction",
+    "id": "explicit.stat_353652601"
+  },
+  {
+    "text": "Damage Penetrates #% Fire Resistance",
+    "id": "explicit.stat_1123291426"
+  },
+  {
+    "text": "Damage Penetrates #% Cold Resistance",
+    "id": "explicit.stat_1211769158"
+  },
+  {
+    "text": "Damage Penetrates #% Lightning Resistance",
+    "id": "explicit.stat_3301510262"
+  },
+  {
+    "text": "Damage Penetrates #% Chaos Resistance",
+    "id": "explicit.stat_2237902788"
+  },
+  {
+    "text": "#% chance to gain 1 Rage when you Hit a Rare or Unique Enemy",
+    "id": "explicit.stat_2050672595"
+  },
+  {
+    "text": "#% increased Damage for each Non-Instant Spell you've Cast in the past 8 seconds",
+    "id": "explicit.stat_2467098490"
+  },
+  {
+    "text": "#% chance to gain Phasing for 4 seconds on Kill",
+    "id": "explicit.stat_3669845133"
+  },
+  {
+    "text": "#% of Overkill Damage is Leeched as Life",
+    "id": "explicit.stat_3511523149"
+  },
+  {
+    "text": "#% increased Area of Effect if you've Killed Recently",
+    "id": "explicit.stat_923608573"
+  },
+  {
+    "text": "#% chance to refresh Bleeding Duration on Hit",
+    "id": "explicit.stat_4047137117"
+  },
+  {
+    "text": "#% chance to refresh Ignite Duration on Hit",
+    "id": "explicit.stat_1884837533"
+  },
+  {
+    "text": "Gain # Mana per Enemy Killed",
+    "id": "explicit.stat_782259898"
+  },
+  {
+    "text": "# metres to Melee Strike Range",
+    "id": "explicit.stat_2264295449"
+  },
+  {
+    "text": "#% increased Attack Speed if you have Blocked Recently",
+    "id": "explicit.stat_315150861"
+  },
+  {
+    "text": "Weapon Attacks fire an additional Projectile if you've been Hit Recently",
+    "id": "explicit.stat_50229759"
+  },
+  {
+    "text": "Poisons you inflict on non-Poisoned Enemies deal #% increased Damage",
+    "id": "explicit.stat_85355826"
+  },
+  {
+    "text": "#% chance to create Consecrated Ground when you Hit a Rare or Unique Enemy, lasting 8 seconds",
+    "id": "explicit.stat_4278270018"
+  },
+  {
+    "text": "#% increased Rarity of Items Dropped by Slain Enemies",
+    "id": "explicit.stat_528002207"
+  },
+  {
+    "text": "#% increased Flask Charges gained from Kills",
+    "id": "explicit.stat_245959100"
+  },
+  {
+    "text": "Recover #% of Life on Killing a Rare or Unique Enemy",
+    "id": "explicit.stat_1351703960"
+  },
+  {
+    "text": "#% increased Mana Regeneration Rate if you have Shocked an Enemy Recently",
+    "id": "explicit.stat_2880316165"
+  },
+  {
+    "text": "Chills from your Hits always reduce Action Speed by at least #%",
+    "id": "explicit.stat_2774670797"
+  },
+  {
+    "text": "Your hits can't be Evaded while you are on Low Life",
+    "id": "explicit.stat_973664716"
+  },
+  {
+    "text": "Projectiles have #% chance to be able to Chain when colliding with terrain",
+    "id": "explicit.stat_1661496782"
+  },
+  {
+    "text": "#% chance to inflict a Grasping Vine on Hit",
+    "id": "explicit.stat_2998330946"
+  },
+  {
+    "text": "#% chance to Curse Enemies with a random Hex on Hit",
+    "id": "explicit.stat_1613298037"
+  },
+  {
+    "text": "Melee Strike Skills deal Splash Damage to surrounding targets, with #% reduced Area of Effect",
+    "id": "explicit.stat_2446943603"
+  },
+  {
+    "text": "#% Chance to Block Attack Damage if you've Stunned an Enemy Recently",
+    "id": "explicit.stat_2937199008"
+  }
+]

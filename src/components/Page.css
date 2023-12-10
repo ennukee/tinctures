@@ -1,0 +1,33 @@
+.page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.input {
+  width: 400px;
+  height: 300px;
+  background-color: #ddd;
+  margin-top: 10px;
+}
+
+.generate-button {
+  margin: 10px 0;
+  width: 150px;
+  height: 40px;
+  border-radius: 2px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ddd;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #99f;
+}
