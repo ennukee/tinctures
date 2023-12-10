@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tinctures/static/css/main.487389d8.css",
+    "main.js": "/tinctures/static/js/main.67d66896.js",
+    "index.html": "/tinctures/index.html",
+    "main.487389d8.css.map": "/tinctures/static/css/main.487389d8.css.map",
+    "main.67d66896.js.map": "/tinctures/static/js/main.67d66896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487389d8.css",
+    "static/js/main.67d66896.js"
+  ]
+}
